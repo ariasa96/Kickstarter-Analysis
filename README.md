@@ -1,2 +1,2 @@
-# Kickstarter-Analysis
-Uncovering trends on Kickstarter data by performing analysis
+# An Analhysis of Kickstarter Campaigns
+Uncovering trends based on Kickstarter data ![US SUBCATEGORY](https://user-images.githubusercontent.com/113739316/193897727-2fba0b39-98ac-4cc5-a672-19d246a46d8c.png)
